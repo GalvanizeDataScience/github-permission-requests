@@ -18,7 +18,7 @@ Reasons for the request: []
 Urgency: [immediately/24hours/1week/etc]
 ```
 
-Subscribe to the issue to get updates to your requests.
+Subscribe to the issue to get updates of your requests.
 
 ## Transparency
 
